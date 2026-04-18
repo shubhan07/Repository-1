@@ -11,7 +11,6 @@ void displayMenu() {
     printf("  5. Power          (x ^ y)\n");
     printf("  6. Factorial      (x!)\n");
     printf("  0. Exit\n");
-    printf("==========================================\n");
     printf("  Enter your choice: ");
 }
 
@@ -56,15 +55,10 @@ long long factorial(int n) {
         result *= i;
     return result;
 }
-
-/* Main function: drives the menu and calls appropriate operation functions */
 int main() {
     int choice;
     float x, y;
 
-    printf("\n==========================================");
-    printf("\n     WELCOME TO THE SIMPLE CALCULATOR     ");
-    printf("\n==========================================\n");
 
     do {
         displayMenu();
@@ -117,7 +111,6 @@ int main() {
 
             case 0:
                 printf("\n  Exiting Calculator. Goodbye!\n");
-                printf("==========================================\n\n");
                 break;
 
             default:
