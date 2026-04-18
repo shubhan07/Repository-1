@@ -1,8 +1,8 @@
 /*
-- Rushil Tolia
-- PRN: 1262252066
+- Owner: Shubhan Patnala
+- PRN: 1262251314
 - Batch: I2
-- Description: This program checks if a given three-digit number is an Armstrong number or not. An Armstrong number is a number that is equal to the sum of the cubes of its digits.
+- Description: This program checks if a given year is a leap year or not.
 */
 
 #include <stdio.h>
