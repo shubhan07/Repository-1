@@ -1,10 +1,3 @@
-/*
-- Owner: Shubhan Patnala
-- PRN: 1262251314
-- Batch: I2
-- Description: This program generates the multiplication table for a given number.
-*/
-
 #include <stdio.h>
 
 int main()
