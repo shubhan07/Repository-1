@@ -1,10 +1,3 @@
-/*
-- Owner: Shubhan Patnala
-- PRN: 1262251314
-- Batch: I2
-- Description: This program calculates the gross and net salary of an employee based on the basic pay, HRA, TA, and tax deductions.
-*/
-
 #include <stdio.h>
 
 int main()
