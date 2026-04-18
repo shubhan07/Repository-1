@@ -1,3 +1,9 @@
+/*
+- Owner: Shubhan Patnala
+- PRN: 1262251314
+- Batch: I2
+- Description: This program checks if a given year is a leap year or not.
+*/
 
 //Factorial iterative and non-iterative.
 #include <stdio.h>
