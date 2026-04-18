@@ -3,9 +3,7 @@
 
 // Menu
 void displayMenu() {
-    printf("\n==========================================\n");
     printf("          SIMPLE CALCULATOR MENU          \n");
-    printf("==========================================\n");
     printf("  1. Addition       (x + y)\n");
     printf("  2. Subtraction    (x - y)\n");
     printf("  3. Multiplication (x * y)\n");
