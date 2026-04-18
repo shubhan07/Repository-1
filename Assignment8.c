@@ -1,8 +1,8 @@
 /*
-- Owner: Rushil Tolia
-- PRN: 1262252066
+- Owner: Shubhan Patnala
+- PRN: 1262251314
 - Batch: I2
-- Description: This program calculates the total marks, percentage, and grade of a student based on the marks obtained in five subjects. It also checks if the student has passed or failed based on the minimum passing marks.
+- Description: This program checks if a given year is a leap year or not.
 */
 
 #include <stdio.h>
