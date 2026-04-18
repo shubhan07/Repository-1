@@ -1,9 +1,8 @@
 /*
-* 
--File Owner: Rushil Tolia
-- PRN: 1262252066
+- Owner: Shubhan Patnala
+- PRN: 1262251314
 - Batch: I2
-- Description: This program performs various operations on a given number based on user's choice.
+- Description: This program checks if a given year is a leap year or not.
 */
 
 //Libraries Included:
