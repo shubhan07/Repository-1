@@ -1,10 +1,3 @@
-/*
-- Owner: Shubhan Patnala
-- PRN: 1262251314
-- Batch: I2
-- Description: This program is a simple calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division, and modulus) based on user input.
-*/
-
 #include <stdio.h>
 
 //Global Variables:
