@@ -1,10 +1,3 @@
-/*
-- Owner: Rushil Tolia
-- PRN: 1262252066
-- Batch: I2
-- Description: This program takes a number as input and prints its digits in reverse order.
-*/
-
 #include <stdio.h>
 
 int main()
