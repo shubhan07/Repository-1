@@ -1,6 +1,6 @@
 /*
-- Owner: Rushil Tolia
-- PRN: 1262252066
+- Owner: Shubhan Patnala
+- PRN: 1262251314
 - Batch: I2
 - Description: This program generates the multiplication table for a given number.
 */
