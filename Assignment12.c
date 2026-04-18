@@ -1,10 +1,3 @@
-/*
-- Owner: Rushil Tolia
-- PRN: 1262252066
-- Batch: I2
-- Description: This program finds the smallest common divisor (other than 1) and the greatest common divisor (GCD) of two given numbers using the Euclidean algorithm.
-*/
-
 #include <stdio.h>
 
 int main()
