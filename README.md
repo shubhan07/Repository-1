@@ -11,7 +11,6 @@ This repository contains programming exercises and lab implementations for the F
 - Arrays and Basic Matrix Operations  
 - Mathematical Computations (Prime, Factorial, GCD, etc.)  
 
-🎯 Objective:
 ## 🎯 Objective:
 The goal of this repository is to:
 Strengthen core programming fundamentals
